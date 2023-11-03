@@ -10,3 +10,4 @@ Please refer to the assignment page: [https://canvas.emich.edu/courses/79218/ass
 # Enable q
 # Enable sn
 # Enable sc
+# Enable list
